@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sunshine</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="refresh">Refresh</string>
+    <string name="title_activity_detail">Details</string>
+    <string name="pref_location_key">location</string>
+    <string name="unit">unit</string>
+    <string name="default_unit">0</string>
+    <string name="location_show">location_show</string>
+    <string name="location_not_show">location_not_show</string>
+    <string name="location_access">location_access</string>
+    <string name="action_share">action_share</string>
+</resources>
